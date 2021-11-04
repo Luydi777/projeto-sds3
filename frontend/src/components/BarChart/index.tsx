@@ -5,7 +5,7 @@ const BarChart = () => {
             bar: {
                 horizontal: true,
             }
-        },
+        }
     };
     
     const mockData = {
